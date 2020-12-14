@@ -221,7 +221,7 @@ BingMapsAPIKey = null;
 
 // Columns that have a // in front of them are shown.
 HideCols = [
-	"#icao",
+//	"#icao",
 //	"#flag",
 //	"#flight",
 	"#registration",
